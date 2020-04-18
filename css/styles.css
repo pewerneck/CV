@@ -17,6 +17,10 @@ h3 {
   color: #0d7377;
   text-align: center;
 }
+
+p{
+  text-align: center;
+}
 table{
   margin: auto;
 }
