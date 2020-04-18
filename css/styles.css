@@ -1,5 +1,5 @@
 body {
-  background-color:#eaf6f6;;
+  background-color:#b9d7ea;;
  }
 
 hr {
@@ -35,4 +35,8 @@ ol{
 }
 ul{
   list-style-position: inside;
+}
+
+form{
+  text-align: center;
 }
