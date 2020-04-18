@@ -1,0 +1,34 @@
+body {
+  background-color:#eaf6f6;;
+ }
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  width: 7%;
+  border-width: 8px;
+}
+
+h1 {
+  color: #0d7377;
+}
+
+h3 {
+  color: #0d7377;
+  text-align: center;
+}
+table{
+  margin: auto;
+}
+li{
+  text-align: center;
+  margin-left: auto;
+  margin-right: 40px;
+}
+ol{
+  text-align: center;
+  list-style-position: inside;
+}
+ul{
+  list-style-position: inside;
+}
